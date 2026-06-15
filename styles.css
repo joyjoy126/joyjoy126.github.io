@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* 重置浏览器默认样式，消除边距和内边距 */
 * {
   margin: 0;
@@ -54,12 +53,3 @@ canvas:hover {
   body {
     background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
   }
-=======
-h1 {
-    color: blue;
-}
-
-p {
-    font - size: 16px;
->>>>>>> 512242ae9cfb22fffd9f8636729199b3f59454ca
-}

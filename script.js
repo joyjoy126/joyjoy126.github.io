@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 let video;
 let handpose; 
 let predictions = []; // 
@@ -121,8 +120,3 @@ function draw() {
       i--;
     }
   }
-=======
-function showAlert() {
-    alert('你点击了按钮');
->>>>>>> 512242ae9cfb22fffd9f8636729199b3f59454ca
-}
